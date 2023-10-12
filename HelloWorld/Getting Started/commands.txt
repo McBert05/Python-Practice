@@ -1,0 +1,4 @@
+Emoji: 🪟 + .
+Terminal: Ctrl + `
+Code Problems: Ctrl + Shift + M
+Command Pallete: Ctrl + Shift + P
